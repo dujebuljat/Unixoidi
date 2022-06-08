@@ -1,0 +1,10 @@
+jedan
+dva
+tri
+cetri
+pet
+sest
+sedan
+osan
+devet
+deset
